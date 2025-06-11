@@ -1,4 +1,4 @@
-# SQL-Project-EDA---IBM-HR-Analytics-Attrition-
+# SQL Project EDA - IBM HR Analytics Attrition
 
 🧹 SQL Project: EDA - IBM HR Analytics (Attrition) Dataset  
 Dataset: IBM HR Analytics Employee Attrition & Performance (Kaggle)
