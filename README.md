@@ -1,7 +1,7 @@
 # SQL Project EDA - IBM HR Analytics Attrition
 
 🧹 SQL Project: EDA - IBM HR Analytics (Attrition) Dataset  
-Dataset: [IBM HR Analytics Employee Attrition & Performance (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+💡 Sumber Dataset [IBM HR Analytics Employee Attrition & Performance (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 📝 Deskripsi  
 Proyek ini fokus pada analisis eksplorasi data (EDA) menggunakan SQL terhadap dataset HR Analytics dari IBM. Dataset ini berisi data karyawan perusahaan (usia, gaji, departemen, job role, kepuasan kerja, dan lainnya) serta status apakah mereka resign atau tidak (attrition).  
